@@ -41,3 +41,5 @@ This is a simple app using Spring Boot as part of [Red Hat OpenShift Application
 	- [Maven plugin docs](https://jeremylong.github.io/DependencyCheck/dependency-check-maven/)
 	- [OWASP Dependency Check docs](https://www.owasp.org/index.php/OWASP_Dependency_Check)
 	- [Continuous security and OWASP Dependency Check blog](https://blog.lanyonm.org/articles/2015/12/22/continuous-security-owasp-java-vulnerability-check.html)
+
+Test dummy commit hooks
